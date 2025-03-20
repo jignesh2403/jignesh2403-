@@ -3,16 +3,14 @@
 <h3 align="center">MERN Stack Developer | Terminal Enthusiast | Clean Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Code.+Commit.+Hack.+Repeat.;>_Building+MERN+Stack+Projects;>_Learning+and+Breaking+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Code.+Commit.+learn.+Repeat.;>_Building+MERN+Stack+Projects;>_Learning+and+Breaking+Things" alt="Typing SVG" />
 </p>
 
 ---
 
 ```bash
-> whoami
+> who am i
   Jignesh Parmar | MCA Student | MERN Stack Intern
-> pwd
-  /India /Surat /Code-verse
 > sudo apt-get install MERN
   ✅ MongoDB | ✅ Express | ✅ React | ✅ Node.js
 ```
