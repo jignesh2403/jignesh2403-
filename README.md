@@ -10,7 +10,7 @@
 
 ```bash
 > whoami
-  Jignesh Parmar | MCA Student | MERN Stack Intern @ Nirvan Infotech
+  Jignesh Parmar | MCA Student | MERN Stack Intern
 > pwd
   /India /Surat /Code-verse
 > sudo apt-get install MERN
@@ -83,4 +83,4 @@
 
 ---
 
-> #### *“Hack the code. Control the output.”*
+> #### *“Control the output.”*
